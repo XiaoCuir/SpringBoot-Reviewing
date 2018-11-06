@@ -1,0 +1,7 @@
+com:
+  blog:
+    name: 崔朝金
+    title: Spring Boot2.0
+    desc: ${com.blog.name} 正在复习与强化 ${com.blog.title}
+    value: ${random.value}   #随机字符串
+    number: ${random.int}    #随机int
