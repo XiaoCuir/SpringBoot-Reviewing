@@ -1,12 +1,12 @@
-package com.xiaocuir.chapter2;
+package com.xiaocuir;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Chapter2Application {
+public class ChapterApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Chapter2Application.class, args);
+		SpringApplication.run(ChapterApplication.class, args);
 	}
 }
